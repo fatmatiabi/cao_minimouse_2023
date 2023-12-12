@@ -413,10 +413,13 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "TP1_lib_empreinte"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "tp1_lib",
+      "STSPIN240"
     ]
   },
   "meta": {
