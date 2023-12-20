@@ -291,7 +291,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "" (uuid ff380b2b-89b2-4a4c-a707-4535dc4d79f1))
-    (pin "" (uuid ff380b2b-89b2-4a4c-a707-4535dc4d79f1))
+    (pin "" (uuid ff380b2b-89b2-4a4c-a707-4535dc4d79f2))
     (instances
       (project "minimouse"
         (path "/d8fa4cba-2469-4231-847f-065b6b829f44/3f9b0845-5778-418c-a7a8-03da2392145e"
